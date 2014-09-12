@@ -7,6 +7,6 @@
 
 Заметка посвящена некооторым возможностям функций. Часть II "исследовательского конструктора".
 
-[PY2: Python functions features 1] ()
+[PY2: Python functions features 1] (http://nbviewer.ipython.org/github/whitehorn/rus_python/blob/master/PY2_Functions1.ipynb)
 
 
