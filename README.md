@@ -5,3 +5,8 @@
 
 [PY1: Reading MS Excel file data] (http://nbviewer.ipython.org/github/whitehorn/rus_python/blob/master/PY1_MS_ExcelFile_reading.ipynb)
 
+Заметка посвящена некооторым возможностям функций. Часть II "исследовательского конструктора".
+
+[PY2: Python functions features 1] ()
+
+
