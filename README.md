@@ -13,4 +13,6 @@
 
 [PY3: Python modules] (http://nbviewer.ipython.org/github/whitehorn/rus_python/blob/master/PY3_Modules.ipynb)
 
+Заметка посвящена Объектно-ориентированному стилю программирования в python. Часть IV "исследовательского конструктора".
 
+[PY4: OOP in python] (http://nbviewer.ipython.org/github/whitehorn/rus_python/blob/master/PY4_OOP_in_python.ipynb)
