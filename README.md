@@ -21,3 +21,9 @@
 
 [PY5: Writing data to MS Excel file] (http://nbviewer.ipython.org/github/whitehorn/rus_python/blob/master/PY5_MS_ExcelFile_writing.ipynb)
 
+Заметка посвящена записи матричных данных в текстовый формат с разделителями блоков данных (аля фортран)
+
+[PY6: Writting 3D data into ASCII (text) file with metadata] (http://nbviewer.ipython.org/github/whitehorn/rus_python/blob/master/PY6_Writting_3D_data_to_text_file.ipynb)
+
+
+
